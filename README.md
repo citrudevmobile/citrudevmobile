@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Evans Enonchong and the founder of [Citrupoker](https://citrupoker.com)
+- 👋 Hi, I’m Evans Enonchong and the founder of [Citrupoker](https://citrupoker.com): Free Poker Games and Comics
 - 👀 I’m interested in freelance projects (MEVN/MERN stack)
 - 🌱 I’m currently learning solidity smart contract programming
 - 💞️ I’m looking to collaborate on [Kubecle](https://github.com/citrudevmobile/kubecle): Crypto Payday Loans on Hosted PWA (Progressive Web Application)
