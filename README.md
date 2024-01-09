@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning solidity smart contract programming
 - 💞️ I’m looking to collaborate on [Kubecle](https://github.com/citrudevmobile/kubecle): Crypto Payday Loans Backed by Hosted Applications
 - 📫 How to reach me: evansenonchong@hotmail.com
+- You can find me on [Reddit](https://www.reddit.com/user/citrudev_mobile)
 
 <!---
 citrudevmobile/citrudevmobile is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
